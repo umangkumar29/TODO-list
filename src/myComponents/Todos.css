@@ -1,0 +1,26 @@
+.container-2 {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .my-3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .cont {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .cont hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+  }
+  
