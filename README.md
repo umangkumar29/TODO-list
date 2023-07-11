@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Site: https://umangkumar29.github.io/TODO-list/
 1. Click on "Home" on navbar to see the todo section
 2. Click on "About" to see the details of the app
